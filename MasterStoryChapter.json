@@ -125,6 +125,44 @@
       "_image": "ui_image_chapter_6",
       "_icon": "ui_icon_chapter_event_00001",
       "_background": ""
+    },
+    {
+      "_id": 7,
+      "_nameTextId": "Story_Chapter_Name_7",
+      "_descriptionTextId": "Story_Chapter_Description_7",
+      "_bandId": 4,
+      "_isSpecialStory": false,
+      "_mainCharacterIds": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "_musicId": 100111,
+      "_startAt": "2026/10/17 15:00:00",
+      "_endAt": "",
+      "_banner": "ui_banner_chapter_7",
+      "_image": "ui_image_chapter_7",
+      "_icon": "ui_icon_chapter_event_00002",
+      "_background": ""
+    },
+    {
+      "_id": 33,
+      "_nameTextId": "Story_Chapter_Name_33",
+      "_descriptionTextId": "Story_Chapter_Description_33",
+      "_bandId": 0,
+      "_isSpecialStory": true,
+      "_mainCharacterIds": [
+        22
+      ],
+      "_musicId": 0,
+      "_startAt": "2026/10/04 0:00:00",
+      "_endAt": "",
+      "_banner": "ui_banner_chapter_33",
+      "_image": "ui_image_birthday",
+      "_icon": "ui_icon_blank",
+      "_background": "ui_background_birthday"
     }
   ]
 }
